@@ -40,4 +40,6 @@ The Analysis aim to achieve the following
 
 ## Exploratory Data Analysis
 
+This involves exploring of data to answer some question such as
+
 
