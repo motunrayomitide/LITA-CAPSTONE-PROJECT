@@ -23,4 +23,6 @@ The Analysis aim to achieve the following
 
 
 ## Data Cleaning and Preparation
-*
+* Data Loading and Inspection
+* Handling missing Variables
+* Data Cleaning and Formatting
