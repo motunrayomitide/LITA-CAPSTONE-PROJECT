@@ -37,6 +37,12 @@ The Analysis aim to achieve the following
   * For Data Analysis
   * For Visualization
  
+* SQLQuery
+  
+* PowerBI
+  * For Analysis
+  * For Visualization
+
 
 ## Exploratory Data Analysis
 
@@ -86,7 +92,7 @@ There is a noticable fluctuation in the total sales by month with April experien
 ## PowerBI Dashboard
 
 
-
+[Capstone pbi sales file.zip](https://github.com/user-attachments/files/17637000/Capstone.pbi.sales.file.zip)
 
 
 
