@@ -71,7 +71,7 @@ The above Pie Chart illustrates the total sales per product and it is of note th
 
 Inferences
 
-The toatal sales varies across regions with the South as the top performing region in terms of toatal sales with a total sales of 927820. this might be due to higher ppulation density,more demand for the product, marketing strategy or economic condition in the South region.
+The toatal sales varies across regions with the South as the top performing region in terms of toatal sales with a total sales of 927820. this might be due to higher population density,more demand for the product, marketing strategy or economic condition in the South region. To improve the sales in this region, proper inventory management system should be invested in
 
 
 3. Total Sales by Month
@@ -80,6 +80,7 @@ The toatal sales varies across regions with the South as the top performing regi
 
 Inferences
 
+There is a noticable fluctuation in the total sales by month with April experiencing the lowest sles in the year 2023 and July the lowest in 2024. This might be due to seasonal variation like seasonal demand or weather condition, economic conditions like inflation and recession or increase in competitors.
 
 ---
 ## PowerBI Dashboard
