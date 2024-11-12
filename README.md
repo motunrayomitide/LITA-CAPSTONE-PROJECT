@@ -99,7 +99,7 @@ There is a noticable fluctuation in the total sales by month with April experien
    * Focus marketing efforts in the top selling region by introducing location specific promotions and note the result from the promotion, if positive, then it can be replicated in other regions to boost sales.
    * Consideration can also be given to introducing complementary products to capitalize on the popularity of this top selling product.
    * A retail outlet can be opened in high traffic areas of low sales regions to maximize exposure and convenience for customers.
- 4. data can be collected in the form of feedback from customers so as to understand what customer value and where they feel improvement is needed. 
+ 4. Data can be collected in the form of feedback from customers so as to understand what customer value and where they feel improvement is needed. 
 
 
  ## Conclusion
