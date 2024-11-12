@@ -66,7 +66,7 @@ This involves exploring of data to answer some question such as
 
 Inferences
 
-The above Pie Chart illustrates the total sales per product and it is of note that the product with the highest sales is Shoes while Shirts, Hats, Gloves, Jacket and S.ocks are behind respectively. it also means there is a high demand for Shirts more than other products
+The above Pie Chart illustrates the total sales per product and it is of note that the product with the highest sales is Shoes while Shirts, Hats, Gloves, Jacket and S.ocks are behind respectively. it also means there is a high demand for Shoes more than other products.
 
 
 
@@ -77,7 +77,7 @@ The above Pie Chart illustrates the total sales per product and it is of note th
 
 Inferences
 
-The toatal sales varies across regions with the South as the top performing region in terms of toatal sales with a total sales of 927820. this might be due to higher population density,more demand for the product, marketing strategy or economic condition in the South region. To improve the sales in this region, proper inventory management system should be invested in
+The toatal sales varies across regions with the South as the top performing region in terms of toatal sales with a total sales of 927820. this might be due to higher population density,more demand for the product, marketing strategy or economic condition in the South region. To improve the sales in this region, proper inventory management system should be invested in and also suppliers should increse to avoid out of stock.
 
 
 3. Total Sales by Month
@@ -88,11 +88,22 @@ Inferences
 
 There is a noticable fluctuation in the total sales by month with April experiencing the lowest sles in the year 2023 and July the lowest in 2024. This might be due to seasonal variation like seasonal demand or weather condition, economic conditions like inflation and recession or increase in competitors.
 
----
-## PowerBI Dashboard
+## Recommendations
+1. Analyze Seasonal Patterns
+   * look for seasonal trends, holidays or events that impact sales. for times where sales is low, seasonal promotions like discounts codes and flash sales can be used to boost sales.
+   * Special campaigns can also be used ahead of  months with low sales to encourage repeat purchases.
+2. Optimize Inventory and Stocking
+   * For fluctuating sales, adjust stock levels according to demand pattern observed in the past months. consider higher inventory during peak periods and vice versa.
+   * For the top selling region an highest selling product, ensure availability of stocks to meet demand and track inventory to avoid  stockouts that could lead to lost sales.
+3. Leverage the Top Selling Region and product
+   * Focus marketing efforts in the top selling region by introducing location specific promotions and note the result from the promotion, if positive, then it can be replicated in other regions to boost sales.
+   * Consideration can also be given to introducing complementary products to capitalize on the popularity of this top selling product.
+   * A retail outlet can be opened in high traffic areas of low sales regions to maximize exposure and convenience for customers.
+ 4. data can be collected in the form of feedback from customers so as to understand what customer value and where they feel improvement is needed. 
 
 
-[Capstone pbi sales file.zip](https://github.com/user-attachments/files/17637000/Capstone.pbi.sales.file.zip)
+ ## Conclusion
+ In conclusion, the analysis of two years of sales data highlight several key areas for strategic improvement, by understanding and addressing seasonal fluctuation, experimenting with targeted promotion, optimizing inventory, leveraging on the strength of top selling products and region, the store can stabilize  sales and drive growth.  implementing data driven strsategies that focuses on customer engagement and targeted marketing will improve sales  and strengthen customer loyalty. through these efforts, the store can turn insight into actions , helping to build a more resilient and profitable business.
 
 
 
