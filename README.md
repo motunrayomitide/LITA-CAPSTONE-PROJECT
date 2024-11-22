@@ -106,5 +106,9 @@ There is a noticable fluctuation in the total sales by month with April experien
 In conclusion, the analysis of two years of sales data highlights several key areas for strategic improvement, by understanding and addressing seasonal fluctuation, experimenting with targeted promotion, optimizing inventory, leveraging on the strength of top selling products and region, the store can stabilize  sales and drive growth.  implementing data driven strsategies that focuses on customer engagement and targeted marketing will improve sales  and strengthen customer loyalty. through these efforts, the store can turn insight into actions , helping to build a more resilient and profitable business.
 
 
+---
+SQL QUERY
+
+
 
 
