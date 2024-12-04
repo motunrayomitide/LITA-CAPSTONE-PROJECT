@@ -107,13 +107,13 @@ In conclusion, the analysis of two years of sales data highlights several key ar
 
 
 ---
-POWERBI DASHBOARD
+## POWERBI DASHBOARD
 
 ![powerBI Sales](https://github.com/user-attachments/assets/31e6277a-82d9-4bc2-95b3-7ed1f22ac674)
 
 
 ---
-SQL QUERY
+## SQL QUERY
 
 
 
